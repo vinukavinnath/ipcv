@@ -2,3 +2,6 @@
 2_face_recognition/.ipynb_checkpoints/
 3_vehicle_number_plate_detection/.ipynb_checkpoints/
 4_object_detection_with_mobilenet/.ipynb_checkpoints/
+5_pneumonia_detection_with_vgg16/.ipynb_checkpoints/
+5_pneumonia_detection_with_vgg16/dataset
+5_pneumonia_detection_with_vgg16/saved_models
