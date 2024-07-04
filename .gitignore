@@ -1,3 +1,4 @@
+./.ipynb_checkpoints/
 1_shape_detection/.ipynb_checkpoints/
 2_face_recognition/.ipynb_checkpoints/
 3_vehicle_number_plate_detection/.ipynb_checkpoints/
@@ -7,3 +8,4 @@
 5_pneumonia_detection_with_vgg16/saved_models
 6_gun_detection_with_vgg16/.ipynb_checkpoints/
 6_gun_detection_with_vgg16/dataset
+7_multiclass_image_classification/.ipynb_checkpoints/
